@@ -83,7 +83,7 @@ public class tictactoe {
 
 //  Dummy method that's easy to test
 //  ================================
-    public static int printBoard(int abc) {
+    public static int AddOne(int abc) {
       return(abc++);
     }
 
