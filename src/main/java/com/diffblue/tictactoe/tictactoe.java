@@ -81,6 +81,14 @@ public class tictactoe {
     }
 
 
+//  Dummy method that's easy to test
+//  =====================================
+    public static int printBoard(int abc) {
+      return(abc++);
+    }
+
+  
+  
 //  Check for special commands such as quit or man
 //  ==============================================
     public static void parseCommandLine(int command) {
